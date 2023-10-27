@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1ade8e29-902b-4f22-93c9-0dd04ed45d64" name="raul.coss@SISTEMAS2 2010-09-08 15:11:55" runUser="SISSASEGURIDAD\raul.coss" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Ejecución de pruebas local" id="7b564d15-7ca0-4c95-98ad-d75df9ff64c1">
+    <Description>Configuración de ejecución de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment runDeploymentRoot="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\TestResults\raul.coss_SISTEMAS2 2010-09-08 15_11_55">
+      <DeploymentItem filename="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2010-09-08T15:11:55.5840366-05:00" queuing="2010-09-08T15:11:56.0527566-05:00" start="2010-09-08T15:11:56.2871166-05:00" finish="2010-09-08T15:12:20.3324526-05:00" />
+  <TestDefinitions>
+    <UnitTest name="fn_Actualizaciones_ReadTest" storage="c:\my documents\sissa\nuevo desarrollo\sirc\modulo_facturacion\modulo_facturacionpruebas\bin\debug\modulo_facturacionpruebas.dll" id="26a4518a-e655-eb18-5c28-493add5766fb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="edd6e909-c68b-4759-980d-e83c49b1560f" />
+      <TestMethod codeBase="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\bin\Debug\Modulo_FacturacionPruebas.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Modulo_FacturacionPruebas.Cn_ActualizacionesTest, Modulo_FacturacionPruebas" name="fn_Actualizaciones_ReadTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26a4518a-e655-eb18-5c28-493add5766fb" executionId="edd6e909-c68b-4759-980d-e83c49b1560f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="edd6e909-c68b-4759-980d-e83c49b1560f" testId="26a4518a-e655-eb18-5c28-493add5766fb" testName="fn_Actualizaciones_ReadTest" computerName="SISTEMAS2" duration="00:00:21.8173006" startTime="2010-09-08T15:11:56.3339886-05:00" endTime="2010-09-08T15:12:18.7388046-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en Modulo_FacturacionPruebas.Cn_ActualizacionesTest.fn_Actualizaciones_ReadTest() en C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\Cn_ActualizacionesTest.vb:línea 69
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

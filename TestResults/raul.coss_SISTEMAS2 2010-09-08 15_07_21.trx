@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="20536a7e-a301-4d3f-8e68-9186b05b2244" name="raul.coss@SISTEMAS2 2010-09-08 15:07:21" runUser="SISSASEGURIDAD\raul.coss" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Ejecución de pruebas local" id="7b564d15-7ca0-4c95-98ad-d75df9ff64c1">
+    <Description>Configuración de ejecución de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment userDeploymentRoot="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\TestResults\raul.coss_SISTEMAS2 2010-09-08 15_07_21">
+      <DeploymentItem filename="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="2" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2010-09-08T15:07:21.4024037-05:00" queuing="2010-09-08T15:07:21.8086563-05:00" start="2010-09-08T15:07:21.8242814-05:00" finish="2010-09-08T15:07:41.7462839-05:00" />
+  <TestDefinitions>
+    <UnitTest name="fn_Actualizaciones_ReadTest" storage="c:\my documents\sissa\nuevo desarrollo\sirc\modulo_facturacion\modulo_facturacionpruebas\bin\debug\modulo_facturacionpruebas.dll" id="26a4518a-e655-eb18-5c28-493add5766fb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="98118da9-5e7f-4063-b551-fd2c4e289ac6" />
+      <TestMethod codeBase="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\bin\Debug\Modulo_FacturacionPruebas.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Modulo_FacturacionPruebas.Cn_ActualizacionesTest, Modulo_FacturacionPruebas" name="fn_Actualizaciones_ReadTest" />
+    </UnitTest>
+    <UnitTest name="fn_Actualizaciones_LlenarListaTest" storage="c:\my documents\sissa\nuevo desarrollo\sirc\modulo_facturacion\modulo_facturacionpruebas\bin\debug\modulo_facturacionpruebas.dll" id="018544d8-ef3a-aeb9-a633-193d43fd6ba8">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a7040baa-f888-4b2b-b292-c983fdf45936" />
+      <TestMethod codeBase="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\bin\Debug\Modulo_FacturacionPruebas.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Modulo_FacturacionPruebas.Cn_ActualizacionesTest, Modulo_FacturacionPruebas" name="fn_Actualizaciones_LlenarListaTest" />
+    </UnitTest>
+    <UnitTest name="Cn_ActualizacionesConstructorTest" storage="c:\my documents\sissa\nuevo desarrollo\sirc\modulo_facturacion\modulo_facturacionpruebas\bin\debug\modulo_facturacionpruebas.dll" id="d504e911-5600-3df4-3cbc-85267463651d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="1e137199-893c-40ae-a954-2e0d2e2d3221" />
+      <TestMethod codeBase="C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\bin\Debug\Modulo_FacturacionPruebas.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Modulo_FacturacionPruebas.Cn_ActualizacionesTest, Modulo_FacturacionPruebas" name="Cn_ActualizacionesConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="018544d8-ef3a-aeb9-a633-193d43fd6ba8" executionId="a7040baa-f888-4b2b-b292-c983fdf45936" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26a4518a-e655-eb18-5c28-493add5766fb" executionId="98118da9-5e7f-4063-b551-fd2c4e289ac6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d504e911-5600-3df4-3cbc-85267463651d" executionId="1e137199-893c-40ae-a954-2e0d2e2d3221" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a7040baa-f888-4b2b-b292-c983fdf45936" testId="018544d8-ef3a-aeb9-a633-193d43fd6ba8" testName="fn_Actualizaciones_LlenarListaTest" computerName="SISTEMAS2" duration="00:00:00.1512358" startTime="2010-09-08T15:07:21.8242814-05:00" endTime="2010-09-08T15:07:22.4649105-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>El método de prueba Modulo_FacturacionPruebas.Cn_ActualizacionesTest.fn_Actualizaciones_LlenarListaTest produjo la excepción:  System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto..</Message>
+          <StackTrace>    en Modulo_Facturacion.Cn_Datos.Crea_Parametro(SqlCommand&amp; cm, String nombre, SqlDbType tipo, Object valor) en C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Cn_Datos.vb:línea 141
+   en Modulo_Facturacion.Cn_Actualizaciones.fn_Actualizaciones_LlenarLista(cp_Listview lsv) en C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Cn_Actualizaciones.vb:línea 11
+   en Modulo_FacturacionPruebas.Cn_ActualizacionesTest.fn_Actualizaciones_LlenarListaTest() en C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\Cn_ActualizacionesTest.vb:línea 80
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="98118da9-5e7f-4063-b551-fd2c4e289ac6" testId="26a4518a-e655-eb18-5c28-493add5766fb" testName="fn_Actualizaciones_ReadTest" computerName="SISTEMAS2" duration="00:00:19.1935164" startTime="2010-09-08T15:07:22.4649105-05:00" endTime="2010-09-08T15:07:41.6681584-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. Compruebe la exactitud de este método de prueba.</Message>
+          <StackTrace>   en Modulo_FacturacionPruebas.Cn_ActualizacionesTest.fn_Actualizaciones_ReadTest() en C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\Cn_ActualizacionesTest.vb:línea 69
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1e137199-893c-40ae-a954-2e0d2e2d3221" testId="d504e911-5600-3df4-3cbc-85267463651d" testName="Cn_ActualizacionesConstructorTest" computerName="SISTEMAS2" duration="00:00:00.0051018" startTime="2010-09-08T15:07:41.6681584-05:00" endTime="2010-09-08T15:07:41.6994086-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.Inconclusive. TODO: Implementar código para comprobar el destino</Message>
+          <StackTrace>   en Modulo_FacturacionPruebas.Cn_ActualizacionesTest.Cn_ActualizacionesConstructorTest() en C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_FacturacionPruebas\Cn_ActualizacionesTest.vb:línea 91
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

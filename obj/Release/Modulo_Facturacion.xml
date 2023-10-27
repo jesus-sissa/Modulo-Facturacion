@@ -1,0 +1,330 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Modulo_Facturacion
+</name>
+</assembly>
+<members>
+<member name="P:Modulo_Facturacion.cp_cmb_Simple.Pista">
+	<summary>
+ Indica si se envia o no el parametro  @Pista
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_Simple.Empresa">
+	<summary>
+ Indica si se va a enviar la variable global Empresa al StoredProcedure
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_Simple.Sucursal">
+	<summary>
+ Indica si se va a enviar o no la variable global sucursal al stored procedure
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_Simple.StoredProcedure">
+	<summary>
+ Es el stored procedure del que se va a alimentar el combobox
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_Simple.Actualizar">
+	<summary>
+ Actualiza el contenido del combo utilizando el stored procedure
+ </summary>
+	<remarks>'si requiere la sucursal hay que marcar sucursal como true</remarks>
+</member><member name="T:Modulo_Facturacion.cp_cmb_Simple">
+	<summary>
+ Es un combobox que se alimenta de un storedprocedure solamente especificando @Pista = '', puede o no alimentar una variable global
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Modulo_Facturacion.cp_cmb_TipoBaja.AgregarItem(System.String,System.String)">
+	<summary>
+ Agrega un elemento al textbox
+ </summary>
+	<param name="Value">Es el campo value member del item</param>
+	<param name="Display">Es el campo display member del item</param>
+</member><member name="T:Modulo_Facturacion.cp_cmb_TipoBaja">
+	<summary>
+ Es un textbox que debe llenarse manualmente
+ Automaticamente agrega el campo selecciona...
+ </summary>
+</member><member name="M:Modulo_Facturacion.FuncionesGlobales.LlenarMinutos(System.Int32,Modulo_Facturacion.cp_cmb_Manual)">
+	<summary>
+ Sirve para llenar un combo con intervalos de minutos definidos
+ </summary>
+	<param name="Minutos">Es el numero de minutos que se van a avanzar con cada ciclo</param>
+	<param name="combo">es el combo que se va a llentar</param>
+</member><member name="P:Modulo_Facturacion.cp_Combobox.Control_Siguiente">
+	<summary>
+ Es el control que obtendra el foco al presionar siguiente
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_Combobox">
+	<summary>
+ Es un combobox con funcionalidad extendida
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Modulo_Facturacion.cp_tbx_Buscar">
+	<summary>
+ Es un textbox que se utiliza como campo de busqueda
+ </summary>
+</member><member name="M:Modulo_Facturacion.Cn_Facturacion.fn_BuscarClientes_LlenarLista(Modulo_Facturacion.cp_Listview,System.Boolean)">
+	<summary>
+ Llena la lista lsv_Clientes
+ </summary>
+	<returns>Devuelve true en caso de que se haya hecho correctamente la acutalizacion</returns>
+</member><member name="M:Modulo_Facturacion.Cn_Facturacion.fn_BuscarClientes_LlenarListaEmpleados(Modulo_Facturacion.cp_Listview)">
+	<summary>
+ Llena la lista lsv_Clientes con Empleados
+ </summary>
+	<returns>Devuelve true en caso de que se haya hecho correctamente la acutalizacion</returns>
+</member><member name="M:Modulo_Facturacion.Cn_Facturacion.fn_BuscarClientes_LlenarListaCajasBancarias(Modulo_Facturacion.cp_Listview)">
+	<summary>
+ Llena la lista lsv_Clientes con Cajas Bancarias
+ </summary>
+	<returns>Devuelve true en caso de que se haya hecho correctamente la acutalizacion</returns>
+</member><member name="E:Modulo_Facturacion.cp_Listview.AlActualizar">
+	<summary>
+ Este evento se producira al ejecutarse la funcion Actualizar
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Lvs">
+	<summary>
+ Obtiene o establece el ordenador del listview
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row1">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 1
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row2">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 2
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row3">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 3
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row4">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 4
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row5">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 5
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row6">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 6
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row7">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 7
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row8">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 8
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row9">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 9
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Listview.Row10">
+	<summary>
+ Obtiene o establece el porcentaje del tamaño en la columna 10
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_Listview.Actualizar(System.Data.SqlClient.SqlCommand,System.String)">
+	<summary>
+ Obtiene valores actualizados de la base de datos
+ </summary>
+	<param name="Cmd">Es el commando del que se obtendran los valores</param>
+	<param name="PK">
+ Es el nombre de la columna que contiene el primary key
+ La columna no se incluye pero su valor se guarda en la propiedad tag de la fila
+ </param>
+</member><member name="T:Modulo_Facturacion.cp_Listview">
+	<summary>
+ Es un listview con funcionalidades extendidas
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltradoParam.Pista">
+	<summary>
+ Indica si se envia o no el parametro  @Pista
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltradoParam.Empresa">
+	<summary>
+ Indica si se va a enviar la variable global Empresa al StoredProcedure
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltradoParam.Sucursal">
+	<summary>
+ Indica si se va a enviar o no la variable global sucursal al stored procedure
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_SimpleFiltradoParam.Actualizar">
+	<summary>
+ Actualiza el contenido del combo utilizando el stored procedure
+ </summary>
+	<remarks>'si requiere la sucursal hay que marcar sucursal como true</remarks>
+</member><member name="M:Modulo_Facturacion.cp_cmb_SimpleFiltradoParam._Filtro_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ busca el valor del textbox en la columna clave
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_SimpleFiltradoParam.cp_cmb_SimpleFiltrado_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<summary>
+ escribe en el filtro el numero de clave que se ha seleccionado
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_tbx_int_N">
+	<summary>
+ Es un textbox que alimenta un campo INT
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_tbx_varchar_20_LN">
+	<summary>
+ Es un textbox que alimenta un campo VARCHAR(20)
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltrado.Pista">
+	<summary>
+ Indica si se envia o no el parametro  @Pista
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltrado.Empresa">
+	<summary>
+ Indica si se va a enviar la variable global Empresa al StoredProcedure
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltrado.Sucursal">
+	<summary>
+ Indica si se va a enviar o no la variable global sucursal al stored procedure
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltrado.ComboExtra">
+	<summary>
+ Enlaza un segundo combo al control para Seleccionar por un campo diferente
+ </summary>
+	<value>Puede ser un ComboBox, cp_ComboBox o Cualquier clase heredada de estas</value>
+	<returns>ComboBox</returns>
+	<remarks>Por Favor no Interfiera con el funcionamiento del control</remarks>
+</member><member name="P:Modulo_Facturacion.cp_cmb_SimpleFiltrado.CampoComboExtra">
+	<summary>
+ El el campo de la consulta en donde se buscara el Display Member del combobox
+ </summary>
+	<value>String</value>
+	<returns>String</returns>
+	<remarks>Por Favor no Interfiera con el funcionamiento del control</remarks>
+</member><member name="M:Modulo_Facturacion.cp_cmb_SimpleFiltrado.Actualizar">
+	<summary>
+ Actualiza el contenido del combo utilizando el stored procedure
+ </summary>
+	<remarks>'si requiere la sucursal hay que marcar sucursal como true</remarks>
+</member><member name="M:Modulo_Facturacion.cp_cmb_SimpleFiltrado._Filtro_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ busca el valor del textbox en la columna clave
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_SimpleFiltrado.cp_cmb_SimpleFiltrado_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<summary>
+ escribe en el filtro el numero de clave que se ha seleccionado
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_tbx_varchar_50_L">
+	<summary>
+ Es un textbox que alimenta un campo VARCHAR(50)
+ </summary>
+</member><member name="E:Modulo_Facturacion.cp_Texbox.EnterPress">
+	<summary>
+ Ocurre cuando se presiona la tecla enter
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Texbox.Control_Siguiente">
+	<summary>
+ Es el control al que se va a mover el foco cuando se presione enter
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_Texbox.TipoDatos">
+	<summary>
+ Es el tipo de datos que va a admitir el textbox
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Modulo_Facturacion.cp_Texbox.Filtrado">
+	<summary>
+ Indica si el textbox va a estar filtrado por Tipo de Datos
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_Texbox">
+	<summary>
+ Es un textbox con todas las funcionalidades de la aplicacion
+ pero sin ningun valor por defecto
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_si_no.ControlSiguiente">
+	<summary>
+ Es el control que obtendra el foco al presionar enter
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_si_no.SelectedValue">
+	<summary>
+ Es similar al SelectedValue de un combobox 
+ Devuelve S en caso de seleccionar Sí
+ Devuelve N en caso de seleccionar No
+ Devuelve 0 en case de no haber seleccion
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_si_no">
+	<summary>
+ Es un groupbox con dos RadioButton Si y No
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Modulo_Facturacion.cp_tbx_varchar_4_LN">
+	<summary>
+ Es un textbox que alimenta un campo VARCHAR(4)
+ </summary>
+</member><member name="P:Modulo_Facturacion.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Modulo_Facturacion.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Modulo_Facturacion.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_Parametro.Actualizar">
+	<summary>
+ Actualiza el contenido del combo utilizando el stored procedure
+ </summary>
+	<remarks>'si requiere la sucursal hay que marcar sucursal como true</remarks>
+</member><member name="M:Modulo_Facturacion.cp_cmb_Parametro.CreaTabla">
+	<summary>
+ Crea una tabla basada en las propiedades del combo
+ </summary>
+	<returns>Es la tabla resultante de la funcion ejecutaconsulta</returns>
+	<remarks>Esta funcion es global</remarks>
+</member><member name="T:Modulo_Facturacion.cp_tbx_Money_ND">
+	<summary>
+ Es un textbox que alimenta un campo MONEY
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_tbx_varchar_150_LN">
+	<summary>
+ Es un textbox que alimenta un campo VARCHAR(150)
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_Manual.AgregarItem(System.String,System.String)">
+	<summary>
+ Agrega un elemento al Combobox
+ </summary>
+	<param name="Value">Es el valor del elemento</param>
+	<param name="Display">Es el texto del elemento</param>
+</member><member name="T:Modulo_Facturacion.cp_cmb_Manual">
+	<summary>
+ Es un combobox que debe llenarse manualmente
+ Automaticamente agrega el elemento selecciona...
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_VariableGlobal.StoredProcedure">
+	<summary>
+ Es un string que representa el storedprocedure del que se extraen los datos
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_VariableGlobal.NombreParametro">
+	<summary>
+ Es el nombre del parametro que se va a enviar al stored procedure
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_VariableGlobal.ValorParametro">
+	<summary>
+ Es el valor del parametro que se va a enviar a sqlserver
+ </summary>
+</member><member name="P:Modulo_Facturacion.cp_cmb_VariableGlobal.Tipodedatos">
+	<summary>
+ Representa el tipo de datos del parametro
+ </summary>
+</member><member name="M:Modulo_Facturacion.cp_cmb_VariableGlobal.Actualizar">
+	<summary>
+ Obtiene una lista actualizada de la base de datos y se alimenta de ella
+ </summary>
+</member><member name="T:Modulo_Facturacion.cp_cmb_VariableGlobal">
+	<summary>
+ Es un combobox que que envia a sqlserver un unico parametro
+ </summary>
+</member>
+</members>
+</doc>

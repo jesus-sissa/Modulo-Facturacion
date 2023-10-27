@@ -1,0 +1,1380 @@
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\YO_GERMAN\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\YO_GERMAN\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\YO_GERMAN\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\YO_GERMAN\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\YO_GERMAN\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\YO_GERMAN\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\YO_GERMAN\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\9Modulos3-Oct-13\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\9Modulos3-Oct-13\Modulo_Facturacion\obj\x86\Debug\Interop.PDFCreator.dll
+C:\SIAC\9Modulos3-Oct-13\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\9Modulos3-Oct-13\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\9Modulos3-Oct-13\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\9Modulos3-Oct-13\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulos\FACTURACION\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\Programador2\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\Programador2\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\Programador2\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\Programador2\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\Programador2\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\Programador2\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\Programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC-V3 Migracion\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIACv3\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\SIACv3\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIACv3\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\SIACv3\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\SIACv3\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\SIACv3\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\SIACv3\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\programador2\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\programador2\Desktop\SIAC\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbprojAssemblyReference.cache
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador3\Desktop\Nueva carpeta\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\programador3\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\programador3\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\programador3\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador3\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador3\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\programador3\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\programador3\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.cepeda\Desktop\Desarrollo\Codigo Fuente SIAC V1 - 2018\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarRemision.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\BouncyCastle.Crypto.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\itextsharp.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\bin\x86\Debug\itextsharp.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CopyComplete
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\itextsharp.dll
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\bin\x86\Debug\itextsharp.xml
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarRemision.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CopyComplete
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_DescargarRemisionxFechas.resources
+C:\Users\jesus.medrano\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DetalleDepositos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\itextsharp.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\bin\x86\Debug\itextsharp.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarRemision.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_DescargarRemisionxFechas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DetalleDepositos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CopyComplete
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\itextsharp.dll
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\bin\x86\Debug\itextsharp.xml
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarRemision.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_DescargarRemisionxFechas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DetalleDepositos.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Rastreo.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CopyComplete
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.mora\Desktop\Modulos APP\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarRemision.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_DescargarRemisionxFechas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DetalleDepositos.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Rastreo.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Remison_Digital.resources
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\itextsharp.dll
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\bin\x86\Debug\itextsharp.xml
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.mora\Desktop\Modulos APP\base\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CopyComplete
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.config
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\itextsharp.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\bin\x86\Debug\itextsharp.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Antilavado.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ClientesFacturacionAnticipada.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaDepositos.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaFacturas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaEntradas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DescargarRemision.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_DescargarRemisionxFechas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DetalleDepositos.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Domicilios.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasDesglose.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasModal.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FichasMorralla_Consulta.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_FirmaConexion.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ParcialesModal.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Rastreo.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_RecalcularTraslado.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_About.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Settings.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_SettingsAdminPaq.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_TipodeCambio.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Resources.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Remison_Digital.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe.manifest
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.application
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.vbproj.CopyComplete
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.exe
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Rastreo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Remison_Digital.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.Frm_DescargarRemisionxFechas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_DetalleDepositos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Rastreo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Facturacion\obj\x86\Debug\Modulo_Facturacion.frm_Remison_Digital.resources

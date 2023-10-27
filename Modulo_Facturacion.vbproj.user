@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\REPOSITORY\DEPLOYMENT\Modulo_Facturacion\|C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\PublicacionTemporal\Modulo_Facturacion\|C:\Users\juan.cepeda\Documents\inetpub\wwwroot\Modulo_Facturacion\|http://MTYSTSC1-P03.sissaseguridad.local/Modulo_Facturacion2021/|http://STSC1.sissaseguridad.local/Modulo_Facturacion2021/</PublishUrlHistory>
+    <InstallUrlHistory>http://dvl-mty-v01.sissaseguridad.local/Modulo_Facturacion_v4.5/|http://dvl-mty-v01.sissaseguridad.local/Modulo_Facturacion2021/|http://dvl-mty-v01.sissaseguridad.local/Modulo_Facturacion2017/|http://servidor/Modulo_FacturacionVRV/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

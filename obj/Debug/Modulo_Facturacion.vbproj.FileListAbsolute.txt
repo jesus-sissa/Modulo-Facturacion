@@ -1,0 +1,271 @@
+C:\Documents and Settings\raul.coss\Configuración local\Datos de programa\Temporary Projects\Modulo_Facturacion\bin\Debug\Modulo Master.exe.config
+C:\Documents and Settings\raul.coss\Configuración local\Datos de programa\Temporary Projects\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFactura.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ValidaRemision.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaTV.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqTest.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqTest.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaTV.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulo_Facturacion\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AgruparMovimientos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Interop.PDFCreator.dll
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\SIAC\CodigoFuente\Modulo_Facturacion\bin\Debug\Interop.PDFCreator.dll
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\SIAC\CodigoFuente\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.config
+C:\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.pdb
+C:\SIAC\Modulo_Facturacion\bin\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulo_Facturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqFiscales.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Checador.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConvertirPDF.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMail.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgrupar.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminPaq.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AdminpaqArchivos.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_DepositosPorCuenta.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Pernoctas.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteConcentraciones.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteDotaciones.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosAgregar.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_About.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ConsultaTraslados.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginContra.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_Login.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MENU.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaProceso.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_PreFacturaClientes.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AgregaRemision.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_MovimientosValidar.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ValidaCV.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_VerMensajes.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.Resources.resources
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe.manifest
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.application
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.exe
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.xml
+C:\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Facturacion\obj\Debug\Modulo_Facturacion.frm_ReporteFallasI.resources

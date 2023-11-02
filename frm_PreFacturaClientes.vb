@@ -138,8 +138,23 @@ Public Class frm_PreFacturaClientes
         Return True
     End Function
 
+    Public Class ConceptosProceso
+        Public Property Nombre As String
+        Public Property Importe As Double
+        Public Property Clave As String
+
+
+        Public ConceptosLista As List(Of ConceptosProceso)
+        Public Sub New()
+            ConceptosLista = New List(Of ConceptosProceso)()
+        End Sub
+    End Class
+
     Sub ExportarCompleto()
         If Not Validar() Then Exit Sub
+
+        Dim listaConceptos As New List(Of String)()
+        Dim PrecioConceptos As New List(Of ConceptosProceso)()
 
         Dim Padres As DataTable
         Dim Hijos As DataTable
@@ -859,6 +874,11 @@ Public Class frm_PreFacturaClientes
                     sheet.Range("A" & Indice & ":I" & Indice).WrapText = True
 
                     For Each Concepto As DataRow In ConceptosProceso.Rows
+                        'Brandon Ibarra 2/11/2023
+                        'Este if guarda los conceptos diferentes con sus precios en caso que se repitan para poder crear las columnas en el resumen de facturacion
+                        If Not listaConceptos.Contains((Concepto("Descripcion") + (Concepto("Precio")).ToString()).ToString()) Then
+                            listaConceptos.Add((Concepto("Descripcion") + (Concepto("Precio")).ToString()).ToString())
+                        End If
                         If ConceptoAnterior <> Concepto("Id_Concepto") Then
                             Indice += 1
                             sheet.Range("A" & Indice & ":D" & Indice).Merge()
@@ -871,6 +891,15 @@ Public Class frm_PreFacturaClientes
                             If dt_Formula.Rows.Count > 0 Then
                                 sheet.Range("G" & Indice).Value = dt_Formula.Rows(0)("Cantidad")
                                 sheet.Range("H" & Indice).Value = Concepto("Precio")
+                                'Brandon Ibarra 2/11/2023
+                                'Las siguentes 7 lineas de codigo guardan los conceptos con su clave y su importe en una lista para despues agregarlos mas abajo 
+                                Dim Llenado As New ConceptosProceso
+                                With Llenado
+                                    .Clave = Hijo("Clave").ToString()
+                                    .Nombre = Concepto("Descripcion") + (Concepto("Precio")).ToString()
+                                    .Importe = dt_Formula.Rows(0)("Cantidad") * Concepto("Precio")
+                                End With
+                                PrecioConceptos.Add(Llenado)
                                 Importe += dt_Formula.Rows(0)("Cantidad") * Concepto("Precio")
                                 sheet.Range("I" & Indice).Value = dt_Formula.Rows(0)("Cantidad") * Concepto("Precio")
                                 sheet.Range("G" & Indice & ":I" & Indice).NumberFormat = "#,##0.00"
@@ -1057,6 +1086,10 @@ Public Class frm_PreFacturaClientes
                 sheet.name = "Facturacion"
                 Dim filas As Integer = 5 'INICIAMOS EN FILA 5 DEL EXCEL
                 Dim inicioFila As Integer = filas
+                Dim ColumnasProceso As Integer = listaConceptos.Count 'El numero de columnas que se agregara para cada proceso 
+                Dim letra As Char 'Saber que letra sigue despues de insertar las columas de proceso
+                Dim ultimaLetra As Char 'saber cual es la ultima letra
+                Dim penultimaletra As Char 'saber cual es la penultimaletra
                 ' Dim LetrasCol() As String = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O"}
 
                 sheet.Range("A" & filas).Value = "Clave"
@@ -1071,9 +1104,26 @@ Public Class frm_PreFacturaClientes
                 sheet.Range("J" & filas).Value = "Cobro por Kilometros"
                 sheet.Range("K" & filas).Value = "Cobro por Caja Fuerte"
                 sheet.Range("L" & filas).Value = "Cobro por Proceso"
-                sheet.Range("M" & filas).Value = "Cobro por Pernoctas"
-                sheet.Range("N" & filas).Value = "Cobro por Materiales"
-                sheet.Range("O" & filas).Value = "Total a Cobrar"
+                'Brandon Ibarra 2/11/2023
+                'Agrega las columas de los procesos que estan en la lista y si no hay ninguna continua con ultimaletra = L
+                If ColumnasProceso > 0 Then
+                    For i As Integer = 0 To ColumnasProceso - 1
+                        Dim elemento As String = listaConceptos(i)
+                        'Brandon Ibarra 2/11/2023
+                        'Funcion que nos da la leta que sigue 
+                        letra = Chr(Asc("M") + i)
+                        sheet.Range(letra & filas).Value = elemento
+                        ultimaLetra = letra
+                    Next
+                Else
+                    ultimaLetra = "L"
+                End If
+                ultimaLetra = Chr(Asc(ultimaLetra) + 1)
+                sheet.Range(ultimaLetra & filas).Value = "Cobro por Pernoctas"
+                ultimaLetra = Chr(Asc(ultimaLetra) + 1)
+                sheet.Range(ultimaLetra & filas).Value = "Cobro por Materiales"
+                ultimaLetra = Chr(Asc(ultimaLetra) + 1)
+                sheet.Range(ultimaLetra & filas).Value = "Total a Cobrar"
                 '----FOR QUE IMPRIME EN LA HOJA DE EXCEL  YA RESUMIDO
                 For ilocal As Integer = 0 To TotalFilas
                     filas += 1
@@ -1092,32 +1142,57 @@ Public Class frm_PreFacturaClientes
                     sheet.Range("J" & filas).Value = ArrayFact(ilocal).CobroXKilometros
                     sheet.Range("K" & filas).Value = ArrayFact(ilocal).CobroXCajaFuerte
                     sheet.Range("L" & filas).Value = ArrayFact(ilocal).CobroXProceso
-                    sheet.Range("M" & filas).Value = ArrayFact(ilocal).CobroXPernoctas
-                    sheet.Range("N" & filas).Value = ArrayFact(ilocal).CobroXMateriales
-                    sheet.Range("O" & filas).Value = ArrayFact(ilocal).TotalACobrar
+                    'Brandon Ibarra 2/11/2023
+                    'Valida que existan columas de proceso para despues buscar por clave cliente los que pertenencen a el e irlos ingresando en orden en caso de que este vacio le da 0.00
+                    If ColumnasProceso > 0 Then
+                        For i As Integer = 0 To ColumnasProceso - 1
+                            Dim elemento As String = listaConceptos(i)
+                            letra = Chr(Asc("M") + i)
+                            For Each x As ConceptosProceso In PrecioConceptos
+                                If (x.Clave = ArrayFact(ilocal).Clave.ToString()) Then
+                                    If x.Nombre = elemento Then
+                                        sheet.Range(letra & filas).Value = x.Importe
+                                    End If
+                                End If
+                            Next
+                            If sheet.Range(letra & filas).Value = Nothing Then
+                                sheet.Range(letra & filas).Value = "0.00"
+                            End If
+                        Next
+                    Else
+                        letra = "M"
+                    End If
+                    ultimaLetra = letra
+                    ultimaLetra = Chr(Asc(ultimaLetra) + 1)
+                    sheet.Range(ultimaLetra & filas).Value = ArrayFact(ilocal).CobroXPernoctas
+                    ultimaLetra = Chr(Asc(ultimaLetra) + 1)
+                    sheet.Range(ultimaLetra & filas).Value = ArrayFact(ilocal).CobroXMateriales
+                    ultimaLetra = Chr(Asc(ultimaLetra) + 1)
+                    sheet.Range(ultimaLetra & filas).Value = ArrayFact(ilocal).TotalACobrar
                 Next
 
                 '-----------------------------------------------
                 sheet.Shapes.AddPicture(My.Application.Info.DirectoryPath & "\LogoEmpresa.jpg", False, True, 0, 0, 40, 40)
 
                 sheet.Range("A1").Value = dt_Sucursal.Rows(0)("Nombre")
-                sheet.Range("A1:O1").Font.Bold = True
-                sheet.Range("A1:O1").Font.Size = 11
-                sheet.Range("A1:O1").HorizontalAlignment = -4108
+                sheet.Range("A1:P1").Font.Bold = True
+                sheet.Range("A1:P1").Font.Size = 11
+                sheet.Range("A1:P1").HorizontalAlignment = -4108
                 sheet.Range("A1:G1").Merge()
                 '-------------------------------------------------------------------
-                sheet.Range("N" & filas + 2).Value = "Total General:"
-                sheet.Range("O" & filas + 2).Value = Suma & "(" & "O" & (inicioFila + 1) & ":O" & (filas) & ")"
-                sheet.Range("O" & filas + 2).NumberFormat = "$#,##0.00"
-                sheet.Range("N" & filas + 2 & ":O" & filas + 2).Font.Bold = True
+                penultimaletra = Chr(Asc(ultimaLetra) - 1)
+                sheet.Range(penultimaletra & filas + 2).Value = "Total General:"
+                sheet.Range(ultimaLetra & filas + 2).Value = Suma & "(" & ultimaLetra & (inicioFila + 1) & ":" + ultimaLetra & (filas) & ")"
+                sheet.Range(ultimaLetra & filas + 2).NumberFormat = "$#,##0.00"
+                sheet.Range(penultimaletra & filas + 2 & ":" + ultimaLetra & filas + 2).Font.Bold = True
 
-                sheet.Range("A" & inicioFila & ":O" & inicioFila).Font.Bold = True
-                sheet.Range("A" & inicioFila & ":O" & filas).Font.Size = 10
+                sheet.Range("A" & inicioFila & ":" + penultimaletra & inicioFila).Font.Bold = True
+                sheet.Range("A" & inicioFila & ":" + penultimaletra & filas).Font.Size = 10
 
                 sheet.Range("D" & (inicioFila + 1) & ":D" & filas).NumberFormat = "$#,##0.00"
                 sheet.Range("H" & (inicioFila + 1) & ":O" & filas).NumberFormat = "$#,##0.00"
-                sheet.Range("A" & inicioFila & ":O" & filas).borders.value = True
-                sheet.Range("A" & inicioFila & ":O" & filas).EntireColumn.AutoFit()
+                sheet.Range("A" & inicioFila & ":" + ultimaLetra & filas).borders.value = True
+                sheet.Range("A" & inicioFila & ":" + ultimaLetra & filas).EntireColumn.AutoFit()
                 ' sheet.Range("A2:N2").WrapText = True 'ajuste de texto
                 '-----------------------------------------------------------------
 
